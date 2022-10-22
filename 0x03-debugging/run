@@ -2,4 +2,5 @@
 git add .
 git commit -m "0x03-debugging"
 git push
+ls -la
 git status
